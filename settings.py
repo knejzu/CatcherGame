@@ -17,7 +17,7 @@ class Settings:
         self.apple_points = 2
 
         # Levelup Scale
-        self.levelup_scale = 1.1
+        self.levelup_scale = 1.2
 
         self.initialize_dynamic_settings()
 
